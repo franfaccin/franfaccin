@@ -1,4 +1,10 @@
-### Hi there 👋
+### Welcome world 👋
+
+I did a README thing :D
+
+![GIF typing cat](https://1.bp.blogspot.com/-PerenMfIjCM/XpcyoHWXSzI/AAAAAAAAB-g/DuPj_IoSWAMod3pVy4eEya4uxk-KN0UuACLcBGAsYHQ/s1600/typing%2Bcat%2Bgif3.gif)
+
+Will do more in the future... As soon as I figure what I want to do in here 👩‍💻
 
 <!--
 **franfaccin/franfaccin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
