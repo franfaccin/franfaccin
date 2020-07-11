@@ -1,22 +1,18 @@
-### Welcome world 👋
+# Franciele Faccin
 
-I did a README thing :D
+<img align="right" width='200px' src="https://github.com/franfaccin/franfaccin/blob/master/img/female-codertocat.png?raw=true" alt="Femalecodertocat">
 
-![GIF typing cat](https://1.bp.blogspot.com/-PerenMfIjCM/XpcyoHWXSzI/AAAAAAAAB-g/DuPj_IoSWAMod3pVy4eEya4uxk-KN0UuACLcBGAsYHQ/s1600/typing%2Bcat%2Bgif3.gif)
+[![Twitter URL](https://img.shields.io/badge/-@franfaccin-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/franfaccin)](https://twitter.com/franfaccin) [![Linkedin Badge](https://img.shields.io/badge/-franfaccin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/franfaccin/)](https://www.linkedin.com/in/franfaccin/)
 
-Will do more in the future... As soon as I figure what I want to do in here 👩‍💻
+## oh, hi there <img width='32px' src="https://github.com/franfaccin/franfaccin/blob/master/img/Hi.gif?raw=true" alt="Waving hand">
 
-<!--
-**franfaccin/franfaccin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a Software Developer with 5 years of experience focusing on Frontend. My core technology is Javascript and its frameworks, highlighting React and TypeScript.
 
-Here are some ideas to get you started:
+## ⚡ About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 👾 Passionate **gamer**
+- 👩‍💻 Frontend Developer - **React** <img width="24px" style="margin-bottom: -5px" src="https://github.com/franfaccin/franfaccin/blob/master/img/react.png?raw=true" alt="React logo">
+- 🇧🇷 **Brazilian** living in 🇵🇹 **Portugal**
+- 🗺 Love to **travel**
+- 📐 Started my career as an **Architect**
+- 💻 But I couldn't resist the tech world, and now I'm a happy developer 👩‍💻
