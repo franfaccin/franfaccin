@@ -6,7 +6,7 @@
 
 ## oh, hi there <img width='32px' src="https://github.com/franfaccin/franfaccin/blob/master/img/Hi.gif?raw=true" alt="Waving hand">
 
-I'm a Software Developer with over 6 years of experience focusing on Frontend. My core technology is Javascript and its frameworks, highlighting React and TypeScript.
+I'm a Software Engineer focused on Frontend and Web development. My core technology is Javascript and its frameworks, highlighting React and TypeScript.
 
 ## ⚡ About Me
 
